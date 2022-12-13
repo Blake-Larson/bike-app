@@ -7,20 +7,20 @@ function Hero() {
 		<div className='flex items-center'>
 			<div className='absolute z-10 mx-auto left-0 right-0 text-center'>
 				<h1 className='text-5xl font-bold text-neutral-content mb-5'>
-					Benefits of Biking
+					Clear the air
 				</h1>
 				<a href='#converter' className='btn btn-primary'>
 					Get Started
 				</a>
 			</div>
 			<div
-				className='hero min-h-screen grayscale'
+				className='hero custom-vh-80 grayscale'
 				style={{ backgroundImage: `url(${smog})` }}
 			>
 				<div className='hero-overlay bg-opacity-60'></div>
 			</div>
 			<div
-				className='hero min-h-screen'
+				className='hero custom-vh-80'
 				style={{ backgroundImage: `url(${bike})` }}
 			>
 				<div className='hero-overlay bg-opacity-20'></div>
