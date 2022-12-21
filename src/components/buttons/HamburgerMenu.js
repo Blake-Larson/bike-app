@@ -25,10 +25,10 @@ function HamburgerMenu() {
 				className='dropdown-content bg-base-100 menu p-2 shadow-lg rounded-box w-32 items-end'
 			>
 				<li className='text-lg'>
-					<NavLink to='/menu1'>Menu 1</NavLink>
+					<NavLink to='/'>Home</NavLink>
 				</li>
 				<li className='text-lg'>
-					<NavLink to='/menu2'>Menu 2</NavLink>
+					<NavLink to='/resources'>Resources</NavLink>
 				</li>
 			</ul>
 		</div>

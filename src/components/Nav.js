@@ -7,7 +7,7 @@ function Nav() {
 		<nav className='navbar bg-base-100 border border-base-200 sticky z-50 top-0'>
 			<div className='flex-1'>
 				<Logo />
-				<span className='text-xl font-semibold'>My App</span>
+				<span className='text-xl font-semibold'>Ride Don't Drive</span>
 			</div>
 			<HamburgerMenu />
 		</nav>

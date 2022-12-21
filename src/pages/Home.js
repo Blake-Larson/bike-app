@@ -2,7 +2,7 @@ import React from 'react';
 import Footer from '../components/Footer';
 import Hero from '../components/Hero';
 import Nav from '../components/Nav';
-import Converter from '../components/Converter';
+import Converter from '../components/Converter.tsx';
 
 function Home() {
 	return (
